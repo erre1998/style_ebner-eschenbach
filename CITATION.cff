@@ -1,0 +1,11 @@
+message: "If you use any of these materials, please cite them as follows."
+title: "Style Ebner-Eschenbach – Stylometric Analyses of Marie von Ebner-Eschenbach’s Comedies"
+version: "0.5"
+license: "GPL-3.0"
+date-released: 2025-05-21
+authors:
+  - family-names: Renz
+    given-names: Erik
+    orcid: "https://orcid.org/0009-0005-8288-7470"
+    email: "erik.renz@uni-rostock.de"
+cff-version: "1.1.0"

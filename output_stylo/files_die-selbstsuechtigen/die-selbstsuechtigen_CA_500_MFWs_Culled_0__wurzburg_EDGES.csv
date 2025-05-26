@@ -1,0 +1,89 @@
+Source,Target,Weight,Type
+Female_Emma_1,Female_Emma_3,7,undirected
+Female_Emma_1,Female_Gräfin Mathilde_1,7,undirected
+Female_Emma_1,Female_Gräfin Mathilde_3,3,undirected
+Female_Emma_1,Male_Gabriel_1,7,undirected
+Female_Emma_1,Male_Gabriel_2,2,undirected
+Female_Emma_1,Male_Graf Steinberg_2,4,undirected
+Female_Emma_1,Male_Petermann_1,2,undirected
+Female_Emma_1,Male_Petermann_2,2,undirected
+Female_Emma_1,Male_Petermann_3,9,undirected
+Female_Emma_2,Female_Emma_3,27,undirected
+Female_Emma_2,Male_Gabriel_2,9,undirected
+Female_Emma_2,Male_Gabriel_3,9,undirected
+Female_Emma_2,Male_Graf Steinberg_1,3,undirected
+Female_Emma_2,Male_Graf Steinberg_2,10,undirected
+Female_Emma_2,Male_Petermann_2,1,undirected
+Female_Emma_3,Female_Emma_1,7,undirected
+Female_Emma_3,Female_Emma_2,27,undirected
+Female_Emma_3,Female_Gräfin Mathilde_3,28,undirected
+Female_Emma_3,Male_Gabriel_2,6,undirected
+Female_Emma_3,Male_Gabriel_3,7,undirected
+Female_Emma_3,Male_Graf Steinberg_1,3,undirected
+Female_Gräfin Mathilde_1,Female_Emma_1,7,undirected
+Female_Gräfin Mathilde_1,Female_Gräfin Mathilde_2,17,undirected
+Female_Gräfin Mathilde_1,Female_Gräfin Mathilde_3,10,undirected
+Female_Gräfin Mathilde_1,Male_Gabriel_1,8,undirected
+Female_Gräfin Mathilde_1,Male_Gabriel_2,1,undirected
+Female_Gräfin Mathilde_1,Male_Graf Steinberg_1,21,undirected
+Female_Gräfin Mathilde_1,Male_Graf Steinberg_3,4,undirected
+Female_Gräfin Mathilde_2,Female_Gräfin Mathilde_1,17,undirected
+Female_Gräfin Mathilde_2,Male_Gabriel_1,1,undirected
+Female_Gräfin Mathilde_2,Male_Graf Steinberg_1,10,undirected
+Female_Gräfin Mathilde_2,Male_Graf Steinberg_2,7,undirected
+Female_Gräfin Mathilde_2,Male_Graf Steinberg_3,4,undirected
+Female_Gräfin Mathilde_3,Female_Emma_1,3,undirected
+Female_Gräfin Mathilde_3,Female_Emma_3,28,undirected
+Female_Gräfin Mathilde_3,Female_Gräfin Mathilde_1,10,undirected
+Female_Gräfin Mathilde_3,Male_Gabriel_1,1,undirected
+Female_Gräfin Mathilde_3,Male_Graf Steinberg_1,6,undirected
+Male_Gabriel_1,Female_Emma_1,7,undirected
+Male_Gabriel_1,Female_Gräfin Mathilde_1,8,undirected
+Male_Gabriel_1,Female_Gräfin Mathilde_2,1,undirected
+Male_Gabriel_1,Female_Gräfin Mathilde_3,1,undirected
+Male_Gabriel_1,Male_Gabriel_2,29,undirected
+Male_Gabriel_1,Male_Gabriel_3,22,undirected
+Male_Gabriel_1,Male_Graf Steinberg_1,6,undirected
+Male_Gabriel_2,Female_Emma_1,2,undirected
+Male_Gabriel_2,Female_Emma_2,9,undirected
+Male_Gabriel_2,Female_Emma_3,6,undirected
+Male_Gabriel_2,Female_Gräfin Mathilde_1,1,undirected
+Male_Gabriel_2,Male_Gabriel_1,29,undirected
+Male_Gabriel_2,Male_Gabriel_3,10,undirected
+Male_Gabriel_3,Female_Emma_2,9,undirected
+Male_Gabriel_3,Female_Emma_3,7,undirected
+Male_Gabriel_3,Male_Gabriel_1,22,undirected
+Male_Gabriel_3,Male_Gabriel_2,10,undirected
+Male_Gabriel_3,Male_Petermann_2,2,undirected
+Male_Gabriel_3,Male_Petermann_3,1,undirected
+Male_Graf Steinberg_1,Female_Emma_2,3,undirected
+Male_Graf Steinberg_1,Female_Emma_3,3,undirected
+Male_Graf Steinberg_1,Female_Gräfin Mathilde_1,21,undirected
+Male_Graf Steinberg_1,Female_Gräfin Mathilde_2,10,undirected
+Male_Graf Steinberg_1,Female_Gräfin Mathilde_3,6,undirected
+Male_Graf Steinberg_1,Male_Gabriel_1,6,undirected
+Male_Graf Steinberg_1,Male_Graf Steinberg_2,28,undirected
+Male_Graf Steinberg_1,Male_Graf Steinberg_3,12,undirected
+Male_Graf Steinberg_2,Female_Emma_1,4,undirected
+Male_Graf Steinberg_2,Female_Emma_2,10,undirected
+Male_Graf Steinberg_2,Female_Gräfin Mathilde_2,7,undirected
+Male_Graf Steinberg_2,Male_Graf Steinberg_1,28,undirected
+Male_Graf Steinberg_2,Male_Graf Steinberg_3,25,undirected
+Male_Graf Steinberg_3,Female_Gräfin Mathilde_1,4,undirected
+Male_Graf Steinberg_3,Female_Gräfin Mathilde_2,4,undirected
+Male_Graf Steinberg_3,Male_Graf Steinberg_1,12,undirected
+Male_Graf Steinberg_3,Male_Graf Steinberg_2,25,undirected
+Male_Graf Steinberg_3,Male_Petermann_1,4,undirected
+Male_Petermann_1,Female_Emma_1,2,undirected
+Male_Petermann_1,Male_Graf Steinberg_3,4,undirected
+Male_Petermann_1,Male_Petermann_2,25,undirected
+Male_Petermann_1,Male_Petermann_3,30,undirected
+Male_Petermann_2,Female_Emma_1,2,undirected
+Male_Petermann_2,Female_Emma_2,1,undirected
+Male_Petermann_2,Male_Gabriel_3,2,undirected
+Male_Petermann_2,Male_Petermann_1,25,undirected
+Male_Petermann_2,Male_Petermann_3,20,undirected
+Male_Petermann_3,Female_Emma_1,9,undirected
+Male_Petermann_3,Male_Gabriel_3,1,undirected
+Male_Petermann_3,Male_Petermann_1,30,undirected
+Male_Petermann_3,Male_Petermann_2,20,undirected

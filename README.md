@@ -8,6 +8,8 @@ authored by Erik Renz ([ORCID](https://orcid.org/0009-0005-8288-7470)).
 
 ## Licensing
 
+This repository uses two different licenses:
+
 * **Data:** Creative Commons Zero 1.0 Universal ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)).  
 * **Software:** GNU General Public License Version 3 ([GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)).
 

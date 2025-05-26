@@ -1,0 +1,245 @@
+Source,Target,Weight,Type
+Female_Claudine_1,Female_Melanie_1,23,undirected
+Female_Claudine_1,Male_Graf Hector Berg_1,7,undirected
+Female_Claudine_1,Male_Graf Hector Berg_3,14,undirected
+Female_Claudine_1,Male_Graf Turnau_2,2,undirected
+Female_Claudine_1,Male_Robert_3,4,undirected
+Female_Claudine_2,Female_Gräfin Nordheim_1,2,undirected
+Female_Claudine_2,Female_Gräfin Nordheim_3,1,undirected
+Female_Claudine_2,Female_Gräfin von Thal_2,4,undirected
+Female_Claudine_2,Female_Melanie_2,24,undirected
+Female_Claudine_2,Male_Graf Lazáry_2,20,undirected
+Female_Claudine_2,Male_Kurt_2,4,undirected
+Female_Gräfin Nordheim_1,Female_Claudine_2,2,undirected
+Female_Gräfin Nordheim_1,Female_Gräfin Nordheim_2,19,undirected
+Female_Gräfin Nordheim_1,Female_Gräfin Nordheim_3,17,undirected
+Female_Gräfin Nordheim_1,Female_Sarah_2,1,undirected
+Female_Gräfin Nordheim_1,Male_Graf Lazáry_2,5,undirected
+Female_Gräfin Nordheim_1,Male_Paul_3,5,undirected
+Female_Gräfin Nordheim_2,Female_Gräfin Nordheim_1,19,undirected
+Female_Gräfin Nordheim_2,Female_Gräfin Nordheim_3,26,undirected
+Female_Gräfin Nordheim_2,Female_Therese_2,1,undirected
+Female_Gräfin Nordheim_2,Male_Fürst Limburg_2,2,undirected
+Female_Gräfin Nordheim_2,Male_Graf Hochburg_1,1,undirected
+Female_Gräfin Nordheim_2,Male_Paul_2,7,undirected
+Female_Gräfin Nordheim_3,Female_Claudine_2,1,undirected
+Female_Gräfin Nordheim_3,Female_Gräfin Nordheim_1,17,undirected
+Female_Gräfin Nordheim_3,Female_Gräfin Nordheim_2,26,undirected
+Female_Gräfin Nordheim_3,Female_Gräfin von Thal_1,9,undirected
+Female_Gräfin Nordheim_3,Female_Gräfin von Thal_2,4,undirected
+Female_Gräfin Nordheim_3,Male_Paul_2,2,undirected
+Female_Gräfin Nordheim_3,Male_Paul_3,4,undirected
+Female_Gräfin Nordheim_3,Male_Robert_3,5,undirected
+Female_Gräfin von Thal_1,Female_Gräfin Nordheim_3,9,undirected
+Female_Gräfin von Thal_1,Female_Gräfin von Thal_2,27,undirected
+Female_Gräfin von Thal_1,Female_Sarah_3,8,undirected
+Female_Gräfin von Thal_1,Male_Graf Hochburg_1,2,undirected
+Female_Gräfin von Thal_1,Male_Robert_3,6,undirected
+Female_Gräfin von Thal_2,Female_Claudine_2,4,undirected
+Female_Gräfin von Thal_2,Female_Gräfin Nordheim_3,4,undirected
+Female_Gräfin von Thal_2,Female_Gräfin von Thal_1,27,undirected
+Female_Gräfin von Thal_2,Female_Melanie_2,19,undirected
+Female_Gräfin von Thal_2,Male_Robert_2,1,undirected
+Female_Melanie_1,Female_Claudine_1,23,undirected
+Female_Melanie_1,Female_Melanie_2,2,undirected
+Female_Melanie_1,Female_Sarah_3,3,undirected
+Female_Melanie_1,Male_Fürst Limburg_2,5,undirected
+Female_Melanie_1,Male_Graf Hochburg_1,7,undirected
+Female_Melanie_1,Male_Graf Turnau_2,1,undirected
+Female_Melanie_1,Male_Robert_1,15,undirected
+Female_Melanie_1,Male_Robert_3,3,undirected
+Female_Melanie_2,Female_Claudine_2,24,undirected
+Female_Melanie_2,Female_Gräfin von Thal_2,19,undirected
+Female_Melanie_2,Female_Melanie_1,2,undirected
+Female_Melanie_2,Male_Graf Hochburg_2,2,undirected
+Female_Melanie_2,Male_Robert_2,8,undirected
+Female_Sarah_1,Female_Sarah_2,22,undirected
+Female_Sarah_1,Female_Sarah_3,14,undirected
+Female_Sarah_1,Female_Therese_1,11,undirected
+Female_Sarah_1,Male_Graf Hector Berg_1,4,undirected
+Female_Sarah_1,Male_Graf Turnau_2,3,undirected
+Female_Sarah_1,Male_Paul_1,14,undirected
+Female_Sarah_1,Male_Paul_3,7,undirected
+Female_Sarah_1,Male_Robert_1,1,undirected
+Female_Sarah_1,Male_Robert_3,2,undirected
+Female_Sarah_2,Female_Gräfin Nordheim_1,1,undirected
+Female_Sarah_2,Female_Sarah_1,22,undirected
+Female_Sarah_2,Female_Sarah_3,10,undirected
+Female_Sarah_2,Female_Therese_3,6,undirected
+Female_Sarah_2,Male_Graf Hector Berg_1,2,undirected
+Female_Sarah_2,Male_Graf Lazáry_2,2,undirected
+Female_Sarah_2,Male_Paul_2,10,undirected
+Female_Sarah_2,Male_Paul_3,6,undirected
+Female_Sarah_3,Female_Gräfin von Thal_1,8,undirected
+Female_Sarah_3,Female_Melanie_1,3,undirected
+Female_Sarah_3,Female_Sarah_1,14,undirected
+Female_Sarah_3,Female_Sarah_2,10,undirected
+Female_Sarah_3,Female_Therese_2,8,undirected
+Female_Sarah_3,Female_Therese_3,10,undirected
+Female_Sarah_3,Male_Graf Hochburg_3,24,undirected
+Female_Sarah_3,Male_Paul_2,13,undirected
+Female_Sarah_3,Male_Paul_3,15,undirected
+Female_Sarah_3,Male_Robert_3,4,undirected
+Female_Therese_1,Female_Sarah_1,11,undirected
+Female_Therese_1,Female_Therese_2,3,undirected
+Female_Therese_1,Female_Therese_3,7,undirected
+Female_Therese_1,Male_Graf Hochburg_1,6,undirected
+Female_Therese_1,Male_Graf Hochburg_2,9,undirected
+Female_Therese_1,Male_Graf Hochburg_3,9,undirected
+Female_Therese_1,Male_Kurt_2,4,undirected
+Female_Therese_1,Male_Paul_1,11,undirected
+Female_Therese_1,Male_Robert_1,18,undirected
+Female_Therese_1,Male_Robert_2,7,undirected
+Female_Therese_1,Male_Robert_3,1,undirected
+Female_Therese_2,Female_Gräfin Nordheim_2,1,undirected
+Female_Therese_2,Female_Sarah_3,8,undirected
+Female_Therese_2,Female_Therese_1,3,undirected
+Female_Therese_2,Female_Therese_3,21,undirected
+Female_Therese_2,Male_Fürst Limburg_2,3,undirected
+Female_Therese_2,Male_Graf Hochburg_1,1,undirected
+Female_Therese_2,Male_Kurt_3,7,undirected
+Female_Therese_2,Male_Paul_2,6,undirected
+Female_Therese_2,Male_Robert_2,1,undirected
+Female_Therese_3,Female_Sarah_2,6,undirected
+Female_Therese_3,Female_Sarah_3,10,undirected
+Female_Therese_3,Female_Therese_1,7,undirected
+Female_Therese_3,Female_Therese_2,21,undirected
+Female_Therese_3,Male_Graf Hector Berg_2,3,undirected
+Female_Therese_3,Male_Graf Hector Berg_3,13,undirected
+Female_Therese_3,Male_Graf Hochburg_3,2,undirected
+Female_Therese_3,Male_Paul_2,3,undirected
+Female_Therese_3,Male_Robert_3,1,undirected
+Male_Franz_2,Male_Franz_3,30,undirected
+Male_Franz_2,Male_Graf Hector Berg_1,10,undirected
+Male_Franz_2,Male_Graf Hector Berg_2,24,undirected
+Male_Franz_2,Male_Graf Hector Berg_3,2,undirected
+Male_Franz_3,Male_Franz_2,30,undirected
+Male_Franz_3,Male_Fürst Limburg_2,2,undirected
+Male_Franz_3,Male_Graf Hector Berg_3,15,undirected
+Male_Franz_3,Male_Graf Lazáry_2,1,undirected
+Male_Franz_3,Male_Kurt_3,23,undirected
+Male_Fürst Limburg_2,Female_Gräfin Nordheim_2,2,undirected
+Male_Fürst Limburg_2,Female_Melanie_1,5,undirected
+Male_Fürst Limburg_2,Female_Therese_2,3,undirected
+Male_Fürst Limburg_2,Male_Franz_3,2,undirected
+Male_Fürst Limburg_2,Male_Graf Hector Berg_1,1,undirected
+Male_Fürst Limburg_2,Male_Graf Lazáry_2,11,undirected
+Male_Fürst Limburg_2,Male_Kurt_3,14,undirected
+Male_Fürst Limburg_2,Male_Paul_2,1,undirected
+Male_Fürst Limburg_2,Male_Robert_2,3,undirected
+Male_Graf Hector Berg_1,Female_Claudine_1,7,undirected
+Male_Graf Hector Berg_1,Female_Sarah_1,4,undirected
+Male_Graf Hector Berg_1,Female_Sarah_2,2,undirected
+Male_Graf Hector Berg_1,Male_Franz_2,10,undirected
+Male_Graf Hector Berg_1,Male_Fürst Limburg_2,1,undirected
+Male_Graf Hector Berg_1,Male_Graf Hector Berg_3,6,undirected
+Male_Graf Hector Berg_1,Male_Graf Hochburg_1,2,undirected
+Male_Graf Hector Berg_1,Male_Graf Turnau_2,4,undirected
+Male_Graf Hector Berg_2,Female_Therese_3,3,undirected
+Male_Graf Hector Berg_2,Male_Franz_2,24,undirected
+Male_Graf Hector Berg_2,Male_Graf Hector Berg_3,11,undirected
+Male_Graf Hector Berg_2,Male_Graf Turnau_2,15,undirected
+Male_Graf Hector Berg_3,Female_Claudine_1,14,undirected
+Male_Graf Hector Berg_3,Female_Therese_3,13,undirected
+Male_Graf Hector Berg_3,Male_Franz_2,2,undirected
+Male_Graf Hector Berg_3,Male_Franz_3,15,undirected
+Male_Graf Hector Berg_3,Male_Graf Hector Berg_1,6,undirected
+Male_Graf Hector Berg_3,Male_Graf Hector Berg_2,11,undirected
+Male_Graf Hector Berg_3,Male_Graf Turnau_2,10,undirected
+Male_Graf Hector Berg_3,Male_Kurt_3,7,undirected
+Male_Graf Hochburg_1,Female_Gräfin Nordheim_2,1,undirected
+Male_Graf Hochburg_1,Female_Gräfin von Thal_1,2,undirected
+Male_Graf Hochburg_1,Female_Melanie_1,7,undirected
+Male_Graf Hochburg_1,Female_Therese_1,6,undirected
+Male_Graf Hochburg_1,Female_Therese_2,1,undirected
+Male_Graf Hochburg_1,Male_Graf Hector Berg_1,2,undirected
+Male_Graf Hochburg_1,Male_Robert_1,28,undirected
+Male_Graf Hochburg_1,Male_Robert_3,15,undirected
+Male_Graf Hochburg_2,Female_Melanie_2,2,undirected
+Male_Graf Hochburg_2,Female_Therese_1,9,undirected
+Male_Graf Hochburg_2,Male_Kurt_2,21,undirected
+Male_Graf Hochburg_2,Male_Paul_1,6,undirected
+Male_Graf Hochburg_2,Male_Robert_1,1,undirected
+Male_Graf Hochburg_3,Female_Sarah_3,24,undirected
+Male_Graf Hochburg_3,Female_Therese_1,9,undirected
+Male_Graf Hochburg_3,Female_Therese_3,2,undirected
+Male_Graf Hochburg_3,Male_Robert_1,14,undirected
+Male_Graf Lazáry_2,Female_Claudine_2,20,undirected
+Male_Graf Lazáry_2,Female_Gräfin Nordheim_1,5,undirected
+Male_Graf Lazáry_2,Female_Sarah_2,2,undirected
+Male_Graf Lazáry_2,Male_Franz_3,1,undirected
+Male_Graf Lazáry_2,Male_Fürst Limburg_2,11,undirected
+Male_Graf Lazáry_2,Male_Paul_2,12,undirected
+Male_Graf Turnau_2,Female_Claudine_1,2,undirected
+Male_Graf Turnau_2,Female_Melanie_1,1,undirected
+Male_Graf Turnau_2,Female_Sarah_1,3,undirected
+Male_Graf Turnau_2,Male_Graf Hector Berg_1,4,undirected
+Male_Graf Turnau_2,Male_Graf Hector Berg_2,15,undirected
+Male_Graf Turnau_2,Male_Graf Hector Berg_3,10,undirected
+Male_Graf Turnau_2,Male_Kurt_2,13,undirected
+Male_Graf Turnau_2,Male_Kurt_3,1,undirected
+Male_Graf Turnau_2,Male_Robert_2,9,undirected
+Male_Kurt_2,Female_Claudine_2,4,undirected
+Male_Kurt_2,Female_Therese_1,4,undirected
+Male_Kurt_2,Male_Graf Hochburg_2,21,undirected
+Male_Kurt_2,Male_Graf Turnau_2,13,undirected
+Male_Kurt_2,Male_Paul_1,3,undirected
+Male_Kurt_2,Male_Robert_2,16,undirected
+Male_Kurt_2,Male_Robert_3,3,undirected
+Male_Kurt_3,Female_Therese_2,7,undirected
+Male_Kurt_3,Male_Franz_3,23,undirected
+Male_Kurt_3,Male_Fürst Limburg_2,14,undirected
+Male_Kurt_3,Male_Graf Hector Berg_3,7,undirected
+Male_Kurt_3,Male_Graf Turnau_2,1,undirected
+Male_Kurt_3,Male_Robert_3,5,undirected
+Male_Paul_1,Female_Sarah_1,14,undirected
+Male_Paul_1,Female_Therese_1,11,undirected
+Male_Paul_1,Male_Graf Hochburg_2,6,undirected
+Male_Paul_1,Male_Kurt_2,3,undirected
+Male_Paul_1,Male_Paul_3,19,undirected
+Male_Paul_1,Male_Robert_1,6,undirected
+Male_Paul_1,Male_Robert_3,3,undirected
+Male_Paul_2,Female_Gräfin Nordheim_2,7,undirected
+Male_Paul_2,Female_Gräfin Nordheim_3,2,undirected
+Male_Paul_2,Female_Sarah_2,10,undirected
+Male_Paul_2,Female_Sarah_3,13,undirected
+Male_Paul_2,Female_Therese_2,6,undirected
+Male_Paul_2,Female_Therese_3,3,undirected
+Male_Paul_2,Male_Fürst Limburg_2,1,undirected
+Male_Paul_2,Male_Graf Lazáry_2,12,undirected
+Male_Paul_3,Female_Gräfin Nordheim_1,5,undirected
+Male_Paul_3,Female_Gräfin Nordheim_3,4,undirected
+Male_Paul_3,Female_Sarah_1,7,undirected
+Male_Paul_3,Female_Sarah_2,6,undirected
+Male_Paul_3,Female_Sarah_3,15,undirected
+Male_Paul_3,Male_Paul_1,19,undirected
+Male_Paul_3,Male_Robert_1,3,undirected
+Male_Robert_1,Female_Melanie_1,15,undirected
+Male_Robert_1,Female_Sarah_1,1,undirected
+Male_Robert_1,Female_Therese_1,18,undirected
+Male_Robert_1,Male_Graf Hochburg_1,28,undirected
+Male_Robert_1,Male_Graf Hochburg_2,1,undirected
+Male_Robert_1,Male_Graf Hochburg_3,14,undirected
+Male_Robert_1,Male_Paul_1,6,undirected
+Male_Robert_1,Male_Paul_3,3,undirected
+Male_Robert_1,Male_Robert_2,4,undirected
+Male_Robert_2,Female_Gräfin von Thal_2,1,undirected
+Male_Robert_2,Female_Melanie_2,8,undirected
+Male_Robert_2,Female_Therese_1,7,undirected
+Male_Robert_2,Female_Therese_2,1,undirected
+Male_Robert_2,Male_Fürst Limburg_2,3,undirected
+Male_Robert_2,Male_Graf Turnau_2,9,undirected
+Male_Robert_2,Male_Kurt_2,16,undirected
+Male_Robert_2,Male_Robert_1,4,undirected
+Male_Robert_3,Female_Claudine_1,4,undirected
+Male_Robert_3,Female_Gräfin Nordheim_3,5,undirected
+Male_Robert_3,Female_Gräfin von Thal_1,6,undirected
+Male_Robert_3,Female_Melanie_1,3,undirected
+Male_Robert_3,Female_Sarah_1,2,undirected
+Male_Robert_3,Female_Sarah_3,4,undirected
+Male_Robert_3,Female_Therese_1,1,undirected
+Male_Robert_3,Female_Therese_3,1,undirected
+Male_Robert_3,Male_Graf Hochburg_1,15,undirected
+Male_Robert_3,Male_Kurt_2,3,undirected
+Male_Robert_3,Male_Kurt_3,5,undirected
+Male_Robert_3,Male_Paul_1,3,undirected

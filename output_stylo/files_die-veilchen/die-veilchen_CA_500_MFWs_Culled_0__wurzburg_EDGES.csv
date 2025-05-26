@@ -1,0 +1,71 @@
+Source,Target,Weight,Type
+Female_Baronin Auguste Wolf_3,Female_Gräfin Franziska Andlau_2,5,undirected
+Female_Baronin Auguste Wolf_3,Female_Gräfin Franziska Andlau_3,10,undirected
+Female_Baronin Auguste Wolf_3,Female_Gräfin Julie Neuberg_3,1,undirected
+Female_Baronin Auguste Wolf_3,Female_Gräfin Platen_3,13,undirected
+Female_Baronin Auguste Wolf_3,Male_Baron Rathhausen_3,3,undirected
+Female_Baronin Auguste Wolf_3,Male_Graf Sigmund Andlau_1,17,undirected
+Female_Baronin Auguste Wolf_3,Male_Graf Sigmund Andlau_3,6,undirected
+Female_Gräfin Franziska Andlau_1,Female_Gräfin Franziska Andlau_2,1,undirected
+Female_Gräfin Franziska Andlau_1,Female_Gräfin Franziska Andlau_3,23,undirected
+Female_Gräfin Franziska Andlau_1,Female_Gräfin Julie Neuberg_3,5,undirected
+Female_Gräfin Franziska Andlau_1,Female_Gräfin Platen_3,2,undirected
+Female_Gräfin Franziska Andlau_1,Male_Graf Sigmund Andlau_1,29,undirected
+Female_Gräfin Franziska Andlau_1,Male_Graf Sigmund Andlau_3,1,undirected
+Female_Gräfin Franziska Andlau_2,Female_Baronin Auguste Wolf_3,5,undirected
+Female_Gräfin Franziska Andlau_2,Female_Gräfin Franziska Andlau_1,1,undirected
+Female_Gräfin Franziska Andlau_2,Female_Gräfin Julie Neuberg_2,12,undirected
+Female_Gräfin Franziska Andlau_2,Female_Gräfin Julie Neuberg_3,4,undirected
+Female_Gräfin Franziska Andlau_2,Female_Gräfin Platen_3,3,undirected
+Female_Gräfin Franziska Andlau_2,Male_Graf Sigmund Andlau_2,21,undirected
+Female_Gräfin Franziska Andlau_3,Female_Baronin Auguste Wolf_3,10,undirected
+Female_Gräfin Franziska Andlau_3,Female_Gräfin Franziska Andlau_1,23,undirected
+Female_Gräfin Franziska Andlau_3,Female_Gräfin Julie Neuberg_3,7,undirected
+Female_Gräfin Franziska Andlau_3,Female_Gräfin Platen_3,22,undirected
+Female_Gräfin Franziska Andlau_3,Male_Graf Sigmund Andlau_1,4,undirected
+Female_Gräfin Julie Neuberg_2,Female_Gräfin Franziska Andlau_2,12,undirected
+Female_Gräfin Julie Neuberg_2,Female_Gräfin Julie Neuberg_3,19,undirected
+Female_Gräfin Julie Neuberg_2,Male_Baron Rathhausen_3,3,undirected
+Female_Gräfin Julie Neuberg_2,Male_Graf Ahlfeld_3,12,undirected
+Female_Gräfin Julie Neuberg_2,Male_Graf Sigmund Andlau_1,3,undirected
+Female_Gräfin Julie Neuberg_2,Male_Graf Sigmund Andlau_2,25,undirected
+Female_Gräfin Julie Neuberg_3,Female_Baronin Auguste Wolf_3,1,undirected
+Female_Gräfin Julie Neuberg_3,Female_Gräfin Franziska Andlau_1,5,undirected
+Female_Gräfin Julie Neuberg_3,Female_Gräfin Franziska Andlau_2,4,undirected
+Female_Gräfin Julie Neuberg_3,Female_Gräfin Franziska Andlau_3,7,undirected
+Female_Gräfin Julie Neuberg_3,Female_Gräfin Julie Neuberg_2,19,undirected
+Female_Gräfin Julie Neuberg_3,Female_Gräfin Platen_3,25,undirected
+Female_Gräfin Julie Neuberg_3,Male_Baron Rathhausen_3,2,undirected
+Female_Gräfin Platen_3,Female_Baronin Auguste Wolf_3,13,undirected
+Female_Gräfin Platen_3,Female_Gräfin Franziska Andlau_1,2,undirected
+Female_Gräfin Platen_3,Female_Gräfin Franziska Andlau_2,3,undirected
+Female_Gräfin Platen_3,Female_Gräfin Franziska Andlau_3,22,undirected
+Female_Gräfin Platen_3,Female_Gräfin Julie Neuberg_3,25,undirected
+Female_Gräfin Platen_3,Male_Baron Rathhausen_3,5,undirected
+Male_Baron Rathhausen_3,Female_Baronin Auguste Wolf_3,3,undirected
+Male_Baron Rathhausen_3,Female_Gräfin Julie Neuberg_2,3,undirected
+Male_Baron Rathhausen_3,Female_Gräfin Julie Neuberg_3,2,undirected
+Male_Baron Rathhausen_3,Female_Gräfin Platen_3,5,undirected
+Male_Baron Rathhausen_3,Male_Graf Ahlfeld_3,1,undirected
+Male_Baron Rathhausen_3,Male_Graf Sigmund Andlau_2,9,undirected
+Male_Baron Rathhausen_3,Male_Graf Sigmund Andlau_3,26,undirected
+Male_Graf Ahlfeld_3,Female_Gräfin Julie Neuberg_2,12,undirected
+Male_Graf Ahlfeld_3,Male_Baron Rathhausen_3,1,undirected
+Male_Graf Ahlfeld_3,Male_Graf Sigmund Andlau_2,25,undirected
+Male_Graf Ahlfeld_3,Male_Graf Sigmund Andlau_3,9,undirected
+Male_Graf Sigmund Andlau_1,Female_Baronin Auguste Wolf_3,17,undirected
+Male_Graf Sigmund Andlau_1,Female_Gräfin Franziska Andlau_1,29,undirected
+Male_Graf Sigmund Andlau_1,Female_Gräfin Franziska Andlau_3,4,undirected
+Male_Graf Sigmund Andlau_1,Female_Gräfin Julie Neuberg_2,3,undirected
+Male_Graf Sigmund Andlau_1,Male_Graf Sigmund Andlau_3,3,undirected
+Male_Graf Sigmund Andlau_2,Female_Gräfin Franziska Andlau_2,21,undirected
+Male_Graf Sigmund Andlau_2,Female_Gräfin Julie Neuberg_2,25,undirected
+Male_Graf Sigmund Andlau_2,Male_Baron Rathhausen_3,9,undirected
+Male_Graf Sigmund Andlau_2,Male_Graf Ahlfeld_3,25,undirected
+Male_Graf Sigmund Andlau_2,Male_Graf Sigmund Andlau_3,4,undirected
+Male_Graf Sigmund Andlau_3,Female_Baronin Auguste Wolf_3,6,undirected
+Male_Graf Sigmund Andlau_3,Female_Gräfin Franziska Andlau_1,1,undirected
+Male_Graf Sigmund Andlau_3,Male_Baron Rathhausen_3,26,undirected
+Male_Graf Sigmund Andlau_3,Male_Graf Ahlfeld_3,9,undirected
+Male_Graf Sigmund Andlau_3,Male_Graf Sigmund Andlau_1,3,undirected
+Male_Graf Sigmund Andlau_3,Male_Graf Sigmund Andlau_2,4,undirected

@@ -1,0 +1,199 @@
+Source,Target,Weight,Type
+Female_Ghismonda Mora_1,Female_Isotta_1,12,undirected
+Female_Ghismonda Mora_1,Female_Lucia_1,9,undirected
+Female_Ghismonda Mora_1,Female_Lucia_2,17,undirected
+Female_Ghismonda Mora_1,Male_Domenico Maripetro_4,1,undirected
+Female_Ghismonda Mora_1,Male_Girolamo Bembo_1,13,undirected
+Female_Ghismonda Mora_4,Female_Isotta_1,4,undirected
+Female_Ghismonda Mora_4,Female_Isotta_2,30,undirected
+Female_Ghismonda Mora_4,Male_Anselmo Barbadico_2,2,undirected
+Female_Ghismonda Mora_4,Male_Anselmo Barbadico_4,3,undirected
+Female_Ghismonda Mora_4,Male_Orso_3,14,undirected
+Female_Isotta_1,Female_Ghismonda Mora_1,12,undirected
+Female_Isotta_1,Female_Ghismonda Mora_4,4,undirected
+Female_Isotta_1,Female_Lucia_1,19,undirected
+Female_Isotta_1,Male_Anselmo Barbadico_1,22,undirected
+Female_Isotta_1,Male_Anselmo Barbadico_4,2,undirected
+Female_Isotta_1,Male_Girolamo Bembo_1,6,undirected
+Female_Isotta_1,Male_Girolamo Bembo_3,2,undirected
+Female_Isotta_1,Male_Girolamo Bembo_4,1,undirected
+Female_Isotta_1,Male_Nicolo Foscari_2,4,undirected
+Female_Isotta_2,Female_Ghismonda Mora_4,30,undirected
+Female_Isotta_2,Male_Anselmo Barbadico_2,2,undirected
+Female_Isotta_2,Male_Nicolo Foscari_2,3,undirected
+Female_Isotta_2,Male_Nicolo Foscari_4,7,undirected
+Female_Isotta_2,Male_Orso_3,12,undirected
+Female_Isotta_4,Female_Lucia_4,2,undirected
+Female_Isotta_4,Male_Anselmo Barbadico_2,3,undirected
+Female_Isotta_4,Male_Anselmo Barbadico_3,9,undirected
+Female_Isotta_4,Male_Der Doge (Foscari)_4,4,undirected
+Female_Isotta_4,Male_Domenico Maripetro_2,2,undirected
+Female_Isotta_4,Male_Girolamo Bembo_3,26,undirected
+Female_Isotta_4,Male_Girolamo Bembo_4,3,undirected
+Female_Isotta_4,Male_Nicolo Foscari_2,1,undirected
+Female_Lucia_1,Female_Ghismonda Mora_1,9,undirected
+Female_Lucia_1,Female_Isotta_1,19,undirected
+Female_Lucia_1,Female_Lucia_4,9,undirected
+Female_Lucia_1,Male_Anselmo Barbadico_1,20,undirected
+Female_Lucia_1,Male_Anselmo Barbadico_2,5,undirected
+Female_Lucia_1,Male_Anselmo Barbadico_3,5,undirected
+Female_Lucia_1,Male_Girolamo Bembo_1,21,undirected
+Female_Lucia_1,Male_Girolamo Bembo_3,9,undirected
+Female_Lucia_1,Male_Nicolo Foscari_1,14,undirected
+Female_Lucia_1,Male_Nicolo Foscari_2,9,undirected
+Female_Lucia_2,Female_Ghismonda Mora_1,17,undirected
+Female_Lucia_2,Male_Anselmo Barbadico_4,2,undirected
+Female_Lucia_2,Male_Domenico Maripetro_2,3,undirected
+Female_Lucia_2,Male_Domenico Maripetro_4,5,undirected
+Female_Lucia_2,Male_Girolamo Bembo_2,4,undirected
+Female_Lucia_2,Male_Girolamo Bembo_3,3,undirected
+Female_Lucia_2,Male_Nicolo Foscari_1,2,undirected
+Female_Lucia_2,Male_Nicolo Foscari_3,4,undirected
+Female_Lucia_4,Female_Isotta_4,2,undirected
+Female_Lucia_4,Female_Lucia_1,9,undirected
+Female_Lucia_4,Male_Anselmo Barbadico_1,4,undirected
+Female_Lucia_4,Male_Anselmo Barbadico_4,11,undirected
+Female_Lucia_4,Male_Girolamo Bembo_4,13,undirected
+Female_Lucia_4,Male_Nicolo Foscari_4,7,undirected
+Male_Anselmo Barbadico_1,Female_Isotta_1,22,undirected
+Male_Anselmo Barbadico_1,Female_Lucia_1,20,undirected
+Male_Anselmo Barbadico_1,Female_Lucia_4,4,undirected
+Male_Anselmo Barbadico_1,Male_Anselmo Barbadico_4,5,undirected
+Male_Anselmo Barbadico_1,Male_Domenico Maripetro_3,2,undirected
+Male_Anselmo Barbadico_1,Male_Girolamo Bembo_1,4,undirected
+Male_Anselmo Barbadico_1,Male_Girolamo Bembo_3,1,undirected
+Male_Anselmo Barbadico_1,Male_Nicolo Foscari_1,13,undirected
+Male_Anselmo Barbadico_2,Female_Ghismonda Mora_4,2,undirected
+Male_Anselmo Barbadico_2,Female_Isotta_2,2,undirected
+Male_Anselmo Barbadico_2,Female_Isotta_4,3,undirected
+Male_Anselmo Barbadico_2,Female_Lucia_1,5,undirected
+Male_Anselmo Barbadico_2,Male_Anselmo Barbadico_3,3,undirected
+Male_Anselmo Barbadico_2,Male_Girolamo Bembo_2,26,undirected
+Male_Anselmo Barbadico_2,Male_Girolamo Bembo_4,2,undirected
+Male_Anselmo Barbadico_2,Male_Nicolo Foscari_1,1,undirected
+Male_Anselmo Barbadico_2,Male_Nicolo Foscari_2,3,undirected
+Male_Anselmo Barbadico_3,Female_Isotta_4,9,undirected
+Male_Anselmo Barbadico_3,Female_Lucia_1,5,undirected
+Male_Anselmo Barbadico_3,Male_Anselmo Barbadico_2,3,undirected
+Male_Anselmo Barbadico_3,Male_Girolamo Bembo_1,11,undirected
+Male_Anselmo Barbadico_3,Male_Girolamo Bembo_2,22,undirected
+Male_Anselmo Barbadico_3,Male_Girolamo Bembo_3,13,undirected
+Male_Anselmo Barbadico_3,Male_Nicolo Foscari_2,1,undirected
+Male_Anselmo Barbadico_3,Male_Nicolo Foscari_3,1,undirected
+Male_Anselmo Barbadico_3,Male_Nicolo Foscari_4,2,undirected
+Male_Anselmo Barbadico_3,Male_Orso_3,1,undirected
+Male_Anselmo Barbadico_4,Female_Ghismonda Mora_4,3,undirected
+Male_Anselmo Barbadico_4,Female_Isotta_1,2,undirected
+Male_Anselmo Barbadico_4,Female_Lucia_2,2,undirected
+Male_Anselmo Barbadico_4,Female_Lucia_4,11,undirected
+Male_Anselmo Barbadico_4,Male_Anselmo Barbadico_1,5,undirected
+Male_Anselmo Barbadico_4,Male_Domenico Maripetro_3,16,undirected
+Male_Anselmo Barbadico_4,Male_Girolamo Bembo_2,1,undirected
+Male_Anselmo Barbadico_4,Male_Girolamo Bembo_4,24,undirected
+Male_Anselmo Barbadico_4,Male_Nicolo Foscari_1,2,undirected
+Male_Der Doge (Foscari)_3,Male_Der Doge (Foscari)_4,20,undirected
+Male_Der Doge (Foscari)_3,Male_Domenico Maripetro_2,12,undirected
+Male_Der Doge (Foscari)_3,Male_Domenico Maripetro_3,7,undirected
+Male_Der Doge (Foscari)_3,Male_Nicolo Foscari_3,18,undirected
+Male_Der Doge (Foscari)_3,Male_Orso_2,11,undirected
+Male_Der Doge (Foscari)_3,Male_Orso_3,14,undirected
+Male_Der Doge (Foscari)_4,Female_Isotta_4,4,undirected
+Male_Der Doge (Foscari)_4,Male_Der Doge (Foscari)_3,20,undirected
+Male_Der Doge (Foscari)_4,Male_Domenico Maripetro_2,8,undirected
+Male_Der Doge (Foscari)_4,Male_Domenico Maripetro_4,17,undirected
+Male_Der Doge (Foscari)_4,Male_Orso_2,22,undirected
+Male_Domenico Maripetro_2,Female_Isotta_4,2,undirected
+Male_Domenico Maripetro_2,Female_Lucia_2,3,undirected
+Male_Domenico Maripetro_2,Male_Der Doge (Foscari)_3,12,undirected
+Male_Domenico Maripetro_2,Male_Der Doge (Foscari)_4,8,undirected
+Male_Domenico Maripetro_2,Male_Domenico Maripetro_3,1,undirected
+Male_Domenico Maripetro_2,Male_Domenico Maripetro_4,7,undirected
+Male_Domenico Maripetro_2,Male_Nicolo Foscari_3,3,undirected
+Male_Domenico Maripetro_2,Male_Orso_2,30,undirected
+Male_Domenico Maripetro_2,Male_Orso_3,7,undirected
+Male_Domenico Maripetro_3,Male_Anselmo Barbadico_1,2,undirected
+Male_Domenico Maripetro_3,Male_Anselmo Barbadico_4,16,undirected
+Male_Domenico Maripetro_3,Male_Der Doge (Foscari)_3,7,undirected
+Male_Domenico Maripetro_3,Male_Domenico Maripetro_2,1,undirected
+Male_Domenico Maripetro_3,Male_Girolamo Bembo_4,1,undirected
+Male_Domenico Maripetro_3,Male_Nicolo Foscari_1,1,undirected
+Male_Domenico Maripetro_3,Male_Nicolo Foscari_3,10,undirected
+Male_Domenico Maripetro_3,Male_Orso_3,3,undirected
+Male_Domenico Maripetro_4,Female_Ghismonda Mora_1,1,undirected
+Male_Domenico Maripetro_4,Female_Lucia_2,5,undirected
+Male_Domenico Maripetro_4,Male_Der Doge (Foscari)_4,17,undirected
+Male_Domenico Maripetro_4,Male_Domenico Maripetro_2,7,undirected
+Male_Domenico Maripetro_4,Male_Girolamo Bembo_1,1,undirected
+Male_Domenico Maripetro_4,Male_Girolamo Bembo_3,4,undirected
+Male_Domenico Maripetro_4,Male_Girolamo Bembo_4,3,undirected
+Male_Domenico Maripetro_4,Male_Orso_2,3,undirected
+Male_Girolamo Bembo_1,Female_Ghismonda Mora_1,13,undirected
+Male_Girolamo Bembo_1,Female_Isotta_1,6,undirected
+Male_Girolamo Bembo_1,Female_Lucia_1,21,undirected
+Male_Girolamo Bembo_1,Male_Anselmo Barbadico_1,4,undirected
+Male_Girolamo Bembo_1,Male_Anselmo Barbadico_3,11,undirected
+Male_Girolamo Bembo_1,Male_Domenico Maripetro_4,1,undirected
+Male_Girolamo Bembo_1,Male_Girolamo Bembo_2,8,undirected
+Male_Girolamo Bembo_1,Male_Nicolo Foscari_1,1,undirected
+Male_Girolamo Bembo_1,Male_Nicolo Foscari_4,1,undirected
+Male_Girolamo Bembo_2,Female_Lucia_2,4,undirected
+Male_Girolamo Bembo_2,Male_Anselmo Barbadico_2,26,undirected
+Male_Girolamo Bembo_2,Male_Anselmo Barbadico_3,22,undirected
+Male_Girolamo Bembo_2,Male_Anselmo Barbadico_4,1,undirected
+Male_Girolamo Bembo_2,Male_Girolamo Bembo_1,8,undirected
+Male_Girolamo Bembo_3,Female_Isotta_1,2,undirected
+Male_Girolamo Bembo_3,Female_Isotta_4,26,undirected
+Male_Girolamo Bembo_3,Female_Lucia_1,9,undirected
+Male_Girolamo Bembo_3,Female_Lucia_2,3,undirected
+Male_Girolamo Bembo_3,Male_Anselmo Barbadico_1,1,undirected
+Male_Girolamo Bembo_3,Male_Anselmo Barbadico_3,13,undirected
+Male_Girolamo Bembo_3,Male_Domenico Maripetro_4,4,undirected
+Male_Girolamo Bembo_3,Male_Girolamo Bembo_4,13,undirected
+Male_Girolamo Bembo_3,Male_Nicolo Foscari_1,3,undirected
+Male_Girolamo Bembo_4,Female_Isotta_1,1,undirected
+Male_Girolamo Bembo_4,Female_Isotta_4,3,undirected
+Male_Girolamo Bembo_4,Female_Lucia_4,13,undirected
+Male_Girolamo Bembo_4,Male_Anselmo Barbadico_2,2,undirected
+Male_Girolamo Bembo_4,Male_Anselmo Barbadico_4,24,undirected
+Male_Girolamo Bembo_4,Male_Domenico Maripetro_3,1,undirected
+Male_Girolamo Bembo_4,Male_Domenico Maripetro_4,3,undirected
+Male_Girolamo Bembo_4,Male_Girolamo Bembo_3,13,undirected
+Male_Girolamo Bembo_4,Male_Nicolo Foscari_1,3,undirected
+Male_Nicolo Foscari_1,Female_Lucia_1,14,undirected
+Male_Nicolo Foscari_1,Female_Lucia_2,2,undirected
+Male_Nicolo Foscari_1,Male_Anselmo Barbadico_1,13,undirected
+Male_Nicolo Foscari_1,Male_Anselmo Barbadico_2,1,undirected
+Male_Nicolo Foscari_1,Male_Anselmo Barbadico_4,2,undirected
+Male_Nicolo Foscari_1,Male_Domenico Maripetro_3,1,undirected
+Male_Nicolo Foscari_1,Male_Girolamo Bembo_1,1,undirected
+Male_Nicolo Foscari_1,Male_Girolamo Bembo_3,3,undirected
+Male_Nicolo Foscari_1,Male_Girolamo Bembo_4,3,undirected
+Male_Nicolo Foscari_2,Female_Isotta_1,4,undirected
+Male_Nicolo Foscari_2,Female_Isotta_2,3,undirected
+Male_Nicolo Foscari_2,Female_Isotta_4,1,undirected
+Male_Nicolo Foscari_2,Female_Lucia_1,9,undirected
+Male_Nicolo Foscari_2,Male_Anselmo Barbadico_2,3,undirected
+Male_Nicolo Foscari_2,Male_Anselmo Barbadico_3,1,undirected
+Male_Nicolo Foscari_2,Male_Nicolo Foscari_4,28,undirected
+Male_Nicolo Foscari_3,Female_Lucia_2,4,undirected
+Male_Nicolo Foscari_3,Male_Anselmo Barbadico_3,1,undirected
+Male_Nicolo Foscari_3,Male_Der Doge (Foscari)_3,18,undirected
+Male_Nicolo Foscari_3,Male_Domenico Maripetro_2,3,undirected
+Male_Nicolo Foscari_3,Male_Domenico Maripetro_3,10,undirected
+Male_Nicolo Foscari_3,Male_Orso_3,11,undirected
+Male_Nicolo Foscari_4,Female_Isotta_2,7,undirected
+Male_Nicolo Foscari_4,Female_Lucia_4,7,undirected
+Male_Nicolo Foscari_4,Male_Anselmo Barbadico_3,2,undirected
+Male_Nicolo Foscari_4,Male_Girolamo Bembo_1,1,undirected
+Male_Nicolo Foscari_4,Male_Nicolo Foscari_2,28,undirected
+Male_Orso_2,Male_Der Doge (Foscari)_3,11,undirected
+Male_Orso_2,Male_Der Doge (Foscari)_4,22,undirected
+Male_Orso_2,Male_Domenico Maripetro_2,30,undirected
+Male_Orso_2,Male_Domenico Maripetro_4,3,undirected
+Male_Orso_3,Female_Ghismonda Mora_4,14,undirected
+Male_Orso_3,Female_Isotta_2,12,undirected
+Male_Orso_3,Male_Anselmo Barbadico_3,1,undirected
+Male_Orso_3,Male_Der Doge (Foscari)_3,14,undirected
+Male_Orso_3,Male_Domenico Maripetro_2,7,undirected
+Male_Orso_3,Male_Domenico Maripetro_3,3,undirected
+Male_Orso_3,Male_Nicolo Foscari_3,11,undirected

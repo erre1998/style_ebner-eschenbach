@@ -1,0 +1,133 @@
+Source,Target,Weight,Type
+Female_Elise_11,Female_Elise_4,4,undirected
+Female_Elise_11,Female_Elise_8,3,undirected
+Female_Elise_11,Male_Graf Marko Laßwitz_4,2,undirected
+Female_Elise_4,Female_Elise_11,4,undirected
+Female_Elise_4,Female_Elise_8,3,undirected
+Female_Elise_4,Female_Emma_11,3,undirected
+Female_Elise_4,Female_Emma_6,3,undirected
+Female_Elise_4,Female_Emma_9,3,undirected
+Female_Elise_4,Female_Gräfin Laßwitz_4,3,undirected
+Female_Elise_4,Male_Graf Marko Laßwitz_4,2,undirected
+Female_Elise_8,Female_Elise_11,3,undirected
+Female_Elise_8,Female_Elise_4,3,undirected
+Female_Elise_8,Female_Elise_8,6,undirected
+Female_Elise_8,Female_Emma_11,2,undirected
+Female_Elise_8,Female_Emma_6,2,undirected
+Female_Elise_8,Female_Emma_9,2,undirected
+Female_Elise_8,Female_Gräfin Laßwitz_4,2,undirected
+Female_Elise_8,Male_Graf Marko Laßwitz_4,5,undirected
+Female_Emma_1,Female_Gräfin Laßwitz_3,6,undirected
+Female_Emma_1,Male_Graf Marko Laßwitz_3,2,undirected
+Female_Emma_1,Male_Graf Marko Laßwitz_5,1,undirected
+Female_Emma_10,Female_Emma_8,3,undirected
+Female_Emma_10,Female_Gräfin Laßwitz_3,1,undirected
+Female_Emma_10,Male_Graf Marko Laßwitz_10,2,undirected
+Female_Emma_10,Male_Graf Marko Laßwitz_11,3,undirected
+Female_Emma_10,Male_Graf Rüdiger_3,2,undirected
+Female_Emma_11,Female_Elise_4,3,undirected
+Female_Emma_11,Female_Elise_8,2,undirected
+Female_Emma_11,Female_Gräfin Laßwitz_11,1,undirected
+Female_Emma_11,Male_Graf Marko Laßwitz_4,1,undirected
+Female_Emma_11,Male_Graf Rüdiger_3,1,undirected
+Female_Emma_2,Female_Emma_5,1,undirected
+Female_Emma_2,Female_Gräfin Laßwitz_1,3,undirected
+Female_Emma_2,Female_Gräfin Laßwitz_2,5,undirected
+Female_Emma_2,Male_Graf Rüdiger_2,1,undirected
+Female_Emma_2,Male_Graf Rüdiger_9,1,undirected
+Female_Emma_3,Female_Emma_5,6,undirected
+Female_Emma_3,Male_Graf Marko Laßwitz_5,5,undirected
+Female_Emma_3,Male_Graf Marko Laßwitz_8,1,undirected
+Female_Emma_5,Female_Emma_2,1,undirected
+Female_Emma_5,Female_Emma_3,6,undirected
+Female_Emma_5,Female_Gräfin Laßwitz_1,3,undirected
+Female_Emma_5,Female_Gräfin Laßwitz_2,3,undirected
+Female_Emma_5,Male_Graf Marko Laßwitz_5,4,undirected
+Female_Emma_6,Female_Elise_4,3,undirected
+Female_Emma_6,Female_Elise_8,2,undirected
+Female_Emma_6,Male_Graf Marko Laßwitz_4,1,undirected
+Female_Emma_8,Female_Emma_10,3,undirected
+Female_Emma_8,Female_Gräfin Laßwitz_1,6,undirected
+Female_Emma_8,Female_Gräfin Laßwitz_3,3,undirected
+Female_Emma_8,Female_Gräfin Laßwitz_6,1,undirected
+Female_Emma_8,Male_Graf Marko Laßwitz_10,2,undirected
+Female_Emma_9,Female_Elise_4,3,undirected
+Female_Emma_9,Female_Elise_8,2,undirected
+Female_Emma_9,Female_Gräfin Laßwitz_9,3,undirected
+Female_Emma_9,Male_Graf Marko Laßwitz_4,1,undirected
+Female_Emma_9,Male_Graf Marko Laßwitz_6,2,undirected
+Female_Gräfin Laßwitz_1,Female_Emma_2,3,undirected
+Female_Gräfin Laßwitz_1,Female_Emma_5,3,undirected
+Female_Gräfin Laßwitz_1,Female_Emma_8,6,undirected
+Female_Gräfin Laßwitz_1,Female_Gräfin Laßwitz_11,3,undirected
+Female_Gräfin Laßwitz_1,Male_Graf Marko Laßwitz_11,1,undirected
+Female_Gräfin Laßwitz_11,Female_Emma_11,1,undirected
+Female_Gräfin Laßwitz_11,Female_Gräfin Laßwitz_1,3,undirected
+Female_Gräfin Laßwitz_11,Female_Gräfin Laßwitz_6,2,undirected
+Female_Gräfin Laßwitz_11,Male_Graf Marko Laßwitz_7,1,undirected
+Female_Gräfin Laßwitz_2,Female_Emma_2,5,undirected
+Female_Gräfin Laßwitz_2,Female_Emma_5,3,undirected
+Female_Gräfin Laßwitz_2,Female_Gräfin Laßwitz_9,3,undirected
+Female_Gräfin Laßwitz_3,Female_Emma_1,6,undirected
+Female_Gräfin Laßwitz_3,Female_Emma_10,1,undirected
+Female_Gräfin Laßwitz_3,Female_Emma_8,3,undirected
+Female_Gräfin Laßwitz_3,Male_Graf Marko Laßwitz_3,4,undirected
+Female_Gräfin Laßwitz_3,Male_Graf Marko Laßwitz_5,1,undirected
+Female_Gräfin Laßwitz_4,Female_Elise_4,3,undirected
+Female_Gräfin Laßwitz_4,Female_Elise_8,2,undirected
+Female_Gräfin Laßwitz_4,Male_Graf Marko Laßwitz_4,1,undirected
+Female_Gräfin Laßwitz_6,Female_Emma_8,1,undirected
+Female_Gräfin Laßwitz_6,Female_Gräfin Laßwitz_11,2,undirected
+Female_Gräfin Laßwitz_6,Male_Graf Marko Laßwitz_3,3,undirected
+Female_Gräfin Laßwitz_6,Male_Graf Rüdiger_2,4,undirected
+Female_Gräfin Laßwitz_9,Female_Emma_9,3,undirected
+Female_Gräfin Laßwitz_9,Female_Gräfin Laßwitz_2,3,undirected
+Female_Gräfin Laßwitz_9,Male_Graf Marko Laßwitz_6,4,undirected
+Male_Graf Marko Laßwitz_10,Female_Emma_10,2,undirected
+Male_Graf Marko Laßwitz_10,Female_Emma_8,2,undirected
+Male_Graf Marko Laßwitz_10,Male_Graf Marko Laßwitz_11,2,undirected
+Male_Graf Marko Laßwitz_10,Male_Graf Marko Laßwitz_3,2,undirected
+Male_Graf Marko Laßwitz_10,Male_Graf Marko Laßwitz_8,5,undirected
+Male_Graf Marko Laßwitz_10,Male_Graf Rüdiger_2,3,undirected
+Male_Graf Marko Laßwitz_11,Female_Emma_10,3,undirected
+Male_Graf Marko Laßwitz_11,Female_Gräfin Laßwitz_1,1,undirected
+Male_Graf Marko Laßwitz_11,Male_Graf Marko Laßwitz_10,2,undirected
+Male_Graf Marko Laßwitz_3,Female_Emma_1,2,undirected
+Male_Graf Marko Laßwitz_3,Female_Gräfin Laßwitz_3,4,undirected
+Male_Graf Marko Laßwitz_3,Female_Gräfin Laßwitz_6,3,undirected
+Male_Graf Marko Laßwitz_3,Male_Graf Marko Laßwitz_10,2,undirected
+Male_Graf Marko Laßwitz_3,Male_Graf Marko Laßwitz_6,1,undirected
+Male_Graf Marko Laßwitz_3,Male_Graf Marko Laßwitz_8,6,undirected
+Male_Graf Marko Laßwitz_3,Male_Graf Rüdiger_9,4,undirected
+Male_Graf Marko Laßwitz_4,Female_Elise_11,2,undirected
+Male_Graf Marko Laßwitz_4,Female_Elise_4,2,undirected
+Male_Graf Marko Laßwitz_4,Female_Elise_8,5,undirected
+Male_Graf Marko Laßwitz_4,Female_Emma_11,1,undirected
+Male_Graf Marko Laßwitz_4,Female_Emma_6,1,undirected
+Male_Graf Marko Laßwitz_4,Female_Emma_9,1,undirected
+Male_Graf Marko Laßwitz_4,Female_Gräfin Laßwitz_4,1,undirected
+Male_Graf Marko Laßwitz_4,Male_Graf Marko Laßwitz_4,4,undirected
+Male_Graf Marko Laßwitz_5,Female_Emma_1,1,undirected
+Male_Graf Marko Laßwitz_5,Female_Emma_3,5,undirected
+Male_Graf Marko Laßwitz_5,Female_Emma_5,4,undirected
+Male_Graf Marko Laßwitz_5,Female_Gräfin Laßwitz_3,1,undirected
+Male_Graf Marko Laßwitz_6,Female_Emma_9,2,undirected
+Male_Graf Marko Laßwitz_6,Female_Gräfin Laßwitz_9,4,undirected
+Male_Graf Marko Laßwitz_6,Male_Graf Marko Laßwitz_3,1,undirected
+Male_Graf Marko Laßwitz_7,Female_Gräfin Laßwitz_11,1,undirected
+Male_Graf Marko Laßwitz_7,Male_Graf Rüdiger_2,2,undirected
+Male_Graf Marko Laßwitz_7,Male_Graf Rüdiger_3,6,undirected
+Male_Graf Marko Laßwitz_8,Female_Emma_3,1,undirected
+Male_Graf Marko Laßwitz_8,Male_Graf Marko Laßwitz_10,5,undirected
+Male_Graf Marko Laßwitz_8,Male_Graf Marko Laßwitz_3,6,undirected
+Male_Graf Marko Laßwitz_8,Male_Graf Rüdiger_9,3,undirected
+Male_Graf Rüdiger_2,Female_Emma_2,1,undirected
+Male_Graf Rüdiger_2,Female_Gräfin Laßwitz_6,4,undirected
+Male_Graf Rüdiger_2,Male_Graf Marko Laßwitz_10,3,undirected
+Male_Graf Rüdiger_2,Male_Graf Marko Laßwitz_7,2,undirected
+Male_Graf Rüdiger_3,Female_Emma_10,2,undirected
+Male_Graf Rüdiger_3,Female_Emma_11,1,undirected
+Male_Graf Rüdiger_3,Male_Graf Marko Laßwitz_7,6,undirected
+Male_Graf Rüdiger_9,Female_Emma_2,1,undirected
+Male_Graf Rüdiger_9,Male_Graf Marko Laßwitz_3,4,undirected
+Male_Graf Rüdiger_9,Male_Graf Marko Laßwitz_8,3,undirected

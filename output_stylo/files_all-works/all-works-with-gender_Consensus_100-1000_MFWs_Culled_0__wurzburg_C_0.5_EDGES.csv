@@ -1,0 +1,351 @@
+Source,Target,Weight,Type
+F_Das Waldfräulein_Claudine,F_Das Waldfräulein_Gräfin von Thal,27,undirected
+F_Das Waldfräulein_Claudine,F_Das Waldfräulein_Melanie,42,undirected
+F_Das Waldfräulein_Claudine,F_Die Selbstsüchtigen_Emma,7,undirected
+F_Das Waldfräulein_Claudine,F_Ohne Liebe_Elise,1,undirected
+F_Das Waldfräulein_Claudine,M_Das Waldfräulein_Graf Hector Berg,8,undirected
+F_Das Waldfräulein_Claudine,M_Das Waldfräulein_Graf Lazáry,5,undirected
+F_Das Waldfräulein_Claudine,M_Das Waldfräulein_Graf Turnau,4,undirected
+F_Das Waldfräulein_Gräfin Nordheim,F_Das Waldfräulein_Gräfin von Thal,12,undirected
+F_Das Waldfräulein_Gräfin Nordheim,F_Die Selbstsüchtigen_Gräfin Mathilde,30,undirected
+F_Das Waldfräulein_Gräfin Nordheim,F_Ohne Liebe_Gräfin Laßwitz,2,undirected
+F_Das Waldfräulein_Gräfin Nordheim,M_Das Waldfräulein_Paul,4,undirected
+F_Das Waldfräulein_Gräfin Nordheim,M_Das Waldfräulein_Robert,1,undirected
+F_Das Waldfräulein_Gräfin Nordheim,M_Die Selbstsüchtigen_Graf Steinberg,19,undirected
+F_Das Waldfräulein_Gräfin Nordheim,M_Männertreue_Domenico Maripetro,1,undirected
+F_Das Waldfräulein_Gräfin von Thal,F_Das Waldfräulein_Claudine,27,undirected
+F_Das Waldfräulein_Gräfin von Thal,F_Das Waldfräulein_Gräfin Nordheim,12,undirected
+F_Das Waldfräulein_Gräfin von Thal,F_Die Selbstsüchtigen_Gräfin Mathilde,4,undirected
+F_Das Waldfräulein_Gräfin von Thal,F_Ohne Liebe_Emma,14,undirected
+F_Das Waldfräulein_Gräfin von Thal,F_Ohne Liebe_Gräfin Laßwitz,13,undirected
+F_Das Waldfräulein_Gräfin von Thal,M_Das Waldfräulein_Graf Lazáry,2,undirected
+F_Das Waldfräulein_Gräfin von Thal,M_Das Waldfräulein_Paul,4,undirected
+F_Das Waldfräulein_Gräfin von Thal,M_Das Waldfräulein_Robert,7,undirected
+F_Das Waldfräulein_Melanie,F_Das Waldfräulein_Claudine,42,undirected
+F_Das Waldfräulein_Melanie,F_Das Waldfräulein_Sarah,6,undirected
+F_Das Waldfräulein_Melanie,M_Das Waldfräulein_Fürst Limburg,14,undirected
+F_Das Waldfräulein_Melanie,M_Das Waldfräulein_Graf Hochburg,5,undirected
+F_Das Waldfräulein_Melanie,M_Das Waldfräulein_Graf Turnau,2,undirected
+F_Das Waldfräulein_Melanie,M_Das Waldfräulein_Robert,37,undirected
+F_Das Waldfräulein_Melanie,M_Die Veilchen_Baron Rathhausen,1,undirected
+F_Das Waldfräulein_Melanie,M_Die Veilchen_Graf Ahlfeld,1,undirected
+F_Das Waldfräulein_Melanie,M_Männertreue_Girolamo Bembo,3,undirected
+F_Das Waldfräulein_Melanie,M_Männertreue_Orso,1,undirected
+F_Das Waldfräulein_Sarah,F_Das Waldfräulein_Melanie,6,undirected
+F_Das Waldfräulein_Sarah,F_Das Waldfräulein_Therese,12,undirected
+F_Das Waldfräulein_Sarah,F_Die Selbstsüchtigen_Emma,47,undirected
+F_Das Waldfräulein_Sarah,F_Die Selbstsüchtigen_Gräfin Mathilde,2,undirected
+F_Das Waldfräulein_Sarah,F_Männertreue_Lucia,4,undirected
+F_Das Waldfräulein_Sarah,M_Das Waldfräulein_Graf Hector Berg,1,undirected
+F_Das Waldfräulein_Sarah,M_Das Waldfräulein_Graf Hochburg,8,undirected
+F_Das Waldfräulein_Sarah,M_Das Waldfräulein_Paul,37,undirected
+F_Das Waldfräulein_Sarah,M_Die Selbstsüchtigen_Graf Steinberg,1,undirected
+F_Das Waldfräulein_Therese,F_Das Waldfräulein_Sarah,12,undirected
+F_Das Waldfräulein_Therese,F_Die Selbstsüchtigen_Gräfin Mathilde,2,undirected
+F_Das Waldfräulein_Therese,F_Männertreue_Lucia,1,undirected
+F_Das Waldfräulein_Therese,M_Das Waldfräulein_Franz,6,undirected
+F_Das Waldfräulein_Therese,M_Das Waldfräulein_Graf Hector Berg,6,undirected
+F_Das Waldfräulein_Therese,M_Das Waldfräulein_Graf Hochburg,47,undirected
+F_Das Waldfräulein_Therese,M_Das Waldfräulein_Kurt,9,undirected
+F_Das Waldfräulein_Therese,M_Das Waldfräulein_Paul,13,undirected
+F_Das Waldfräulein_Therese,M_Das Waldfräulein_Robert,8,undirected
+F_Das Waldfräulein_Therese,M_Die Selbstsüchtigen_Gabriel,1,undirected
+F_Das Waldfräulein_Therese,M_Die Veilchen_Graf Sigmund Andlau,1,undirected
+F_Das Waldfräulein_Therese,M_Ohne Liebe_Graf Marko Laßwitz,1,undirected
+F_Die Selbstsüchtigen_Emma,F_Das Waldfräulein_Claudine,7,undirected
+F_Die Selbstsüchtigen_Emma,F_Das Waldfräulein_Sarah,47,undirected
+F_Die Selbstsüchtigen_Emma,F_Die Selbstsüchtigen_Gräfin Mathilde,3,undirected
+F_Die Selbstsüchtigen_Emma,F_Die Veilchen_Gräfin Franziska Andlau,28,undirected
+F_Die Selbstsüchtigen_Emma,F_Ohne Liebe_Emma,1,undirected
+F_Die Selbstsüchtigen_Emma,M_Das Waldfräulein_Paul,7,undirected
+F_Die Selbstsüchtigen_Emma,M_Die Selbstsüchtigen_Gabriel,40,undirected
+F_Die Selbstsüchtigen_Emma,M_Die Selbstsüchtigen_Graf Steinberg,4,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Das Waldfräulein_Gräfin Nordheim,30,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Das Waldfräulein_Gräfin von Thal,4,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Das Waldfräulein_Sarah,2,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Das Waldfräulein_Therese,2,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Die Selbstsüchtigen_Emma,3,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Die Veilchen_Gräfin Platen,4,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,F_Ohne Liebe_Gräfin Laßwitz,4,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,M_Das Waldfräulein_Paul,16,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,M_Die Selbstsüchtigen_Gabriel,42,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,M_Die Selbstsüchtigen_Graf Steinberg,46,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,M_Männertreue_Nicolo Foscari,1,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,M_Ohne Liebe_Graf Marko Laßwitz,4,undirected
+F_Die Selbstsüchtigen_Gräfin Mathilde,M_Ohne Liebe_Graf Rüdiger,3,undirected
+F_Die Veilchen_Baronin Auguste Wolf,F_Die Veilchen_Gräfin Julie Neuberg,4,undirected
+F_Die Veilchen_Baronin Auguste Wolf,F_Die Veilchen_Gräfin Platen,15,undirected
+F_Die Veilchen_Baronin Auguste Wolf,M_Die Selbstsüchtigen_Gabriel,1,undirected
+F_Die Veilchen_Baronin Auguste Wolf,M_Die Veilchen_Baron Rathhausen,51,undirected
+F_Die Veilchen_Baronin Auguste Wolf,M_Die Veilchen_Graf Sigmund Andlau,38,undirected
+F_Die Veilchen_Baronin Auguste Wolf,M_Ohne Liebe_Graf Marko Laßwitz,4,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,F_Die Selbstsüchtigen_Emma,28,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,F_Die Veilchen_Gräfin Julie Neuberg,18,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,F_Die Veilchen_Gräfin Platen,32,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,F_Ohne Liebe_Emma,5,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,M_Das Waldfräulein_Graf Hector Berg,1,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,M_Das Waldfräulein_Kurt,2,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,M_Die Selbstsüchtigen_Graf Steinberg,1,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,M_Die Veilchen_Graf Sigmund Andlau,35,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,M_Ohne Liebe_Graf Marko Laßwitz,20,undirected
+F_Die Veilchen_Gräfin Franziska Andlau,M_Ohne Liebe_Graf Rüdiger,12,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,F_Die Veilchen_Baronin Auguste Wolf,4,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,F_Die Veilchen_Gräfin Franziska Andlau,18,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,F_Die Veilchen_Gräfin Platen,2,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,F_Ohne Liebe_Elise,1,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,M_Das Waldfräulein_Fürst Limburg,22,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,M_Das Waldfräulein_Graf Lazáry,1,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,M_Das Waldfräulein_Graf Turnau,2,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,M_Die Selbstsüchtigen_Graf Steinberg,3,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,M_Die Veilchen_Baron Rathhausen,18,undirected
+F_Die Veilchen_Gräfin Julie Neuberg,M_Die Veilchen_Graf Sigmund Andlau,20,undirected
+F_Die Veilchen_Gräfin Platen,F_Die Selbstsüchtigen_Gräfin Mathilde,4,undirected
+F_Die Veilchen_Gräfin Platen,F_Die Veilchen_Baronin Auguste Wolf,15,undirected
+F_Die Veilchen_Gräfin Platen,F_Die Veilchen_Gräfin Franziska Andlau,32,undirected
+F_Die Veilchen_Gräfin Platen,F_Die Veilchen_Gräfin Julie Neuberg,2,undirected
+F_Die Veilchen_Gräfin Platen,F_Ohne Liebe_Emma,1,undirected
+F_Die Veilchen_Gräfin Platen,M_Das Waldfräulein_Graf Lazáry,22,undirected
+F_Die Veilchen_Gräfin Platen,M_Die Selbstsüchtigen_Graf Steinberg,15,undirected
+F_Die Veilchen_Gräfin Platen,M_Die Veilchen_Baron Rathhausen,3,undirected
+F_Die Veilchen_Gräfin Platen,M_Ohne Liebe_Graf Rüdiger,2,undirected
+F_Männertreue_Ghismonda Mora,F_Männertreue_Isotta,24,undirected
+F_Männertreue_Ghismonda Mora,F_Männertreue_Lucia,18,undirected
+F_Männertreue_Ghismonda Mora,M_Männertreue_Der Doge (Foscari),6,undirected
+F_Männertreue_Ghismonda Mora,M_Männertreue_Girolamo Bembo,13,undirected
+F_Männertreue_Ghismonda Mora,M_Männertreue_Orso,2,undirected
+F_Männertreue_Isotta,F_Männertreue_Ghismonda Mora,24,undirected
+F_Männertreue_Isotta,F_Männertreue_Lucia,13,undirected
+F_Männertreue_Isotta,M_Männertreue_Anselmo Barbadico,30,undirected
+F_Männertreue_Isotta,M_Männertreue_Der Doge (Foscari),9,undirected
+F_Männertreue_Isotta,M_Männertreue_Girolamo Bembo,37,undirected
+F_Männertreue_Isotta,M_Männertreue_Nicolo Foscari,10,undirected
+F_Männertreue_Lucia,F_Das Waldfräulein_Sarah,4,undirected
+F_Männertreue_Lucia,F_Das Waldfräulein_Therese,1,undirected
+F_Männertreue_Lucia,F_Männertreue_Ghismonda Mora,18,undirected
+F_Männertreue_Lucia,F_Männertreue_Isotta,13,undirected
+F_Männertreue_Lucia,M_Männertreue_Anselmo Barbadico,46,undirected
+F_Männertreue_Lucia,M_Männertreue_Girolamo Bembo,47,undirected
+F_Männertreue_Lucia,M_Männertreue_Nicolo Foscari,30,undirected
+F_Ohne Liebe_Elise,F_Das Waldfräulein_Claudine,1,undirected
+F_Ohne Liebe_Elise,F_Die Veilchen_Gräfin Julie Neuberg,1,undirected
+F_Ohne Liebe_Elise,M_Das Waldfräulein_Fürst Limburg,2,undirected
+F_Ohne Liebe_Elise,M_Das Waldfräulein_Graf Lazáry,20,undirected
+F_Ohne Liebe_Elise,M_Das Waldfräulein_Graf Turnau,1,undirected
+F_Ohne Liebe_Elise,M_Die Selbstsüchtigen_Petermann,37,undirected
+F_Ohne Liebe_Elise,M_Die Veilchen_Baron Rathhausen,26,undirected
+F_Ohne Liebe_Elise,M_Die Veilchen_Graf Ahlfeld,56,undirected
+F_Ohne Liebe_Elise,M_Männertreue_Der Doge (Foscari),10,undirected
+F_Ohne Liebe_Elise,M_Männertreue_Orso,5,undirected
+F_Ohne Liebe_Emma,F_Das Waldfräulein_Gräfin von Thal,14,undirected
+F_Ohne Liebe_Emma,F_Die Selbstsüchtigen_Emma,1,undirected
+F_Ohne Liebe_Emma,F_Die Veilchen_Gräfin Franziska Andlau,5,undirected
+F_Ohne Liebe_Emma,F_Die Veilchen_Gräfin Platen,1,undirected
+F_Ohne Liebe_Emma,F_Ohne Liebe_Gräfin Laßwitz,42,undirected
+F_Ohne Liebe_Emma,M_Das Waldfräulein_Graf Hochburg,1,undirected
+F_Ohne Liebe_Emma,M_Das Waldfräulein_Paul,4,undirected
+F_Ohne Liebe_Emma,M_Die Selbstsüchtigen_Gabriel,8,undirected
+F_Ohne Liebe_Emma,M_Die Selbstsüchtigen_Graf Steinberg,1,undirected
+F_Ohne Liebe_Emma,M_Ohne Liebe_Graf Marko Laßwitz,50,undirected
+F_Ohne Liebe_Emma,M_Ohne Liebe_Graf Rüdiger,23,undirected
+F_Ohne Liebe_Gräfin Laßwitz,F_Das Waldfräulein_Gräfin Nordheim,2,undirected
+F_Ohne Liebe_Gräfin Laßwitz,F_Das Waldfräulein_Gräfin von Thal,13,undirected
+F_Ohne Liebe_Gräfin Laßwitz,F_Die Selbstsüchtigen_Gräfin Mathilde,4,undirected
+F_Ohne Liebe_Gräfin Laßwitz,F_Ohne Liebe_Emma,42,undirected
+F_Ohne Liebe_Gräfin Laßwitz,M_Das Waldfräulein_Graf Turnau,1,undirected
+F_Ohne Liebe_Gräfin Laßwitz,M_Das Waldfräulein_Kurt,1,undirected
+F_Ohne Liebe_Gräfin Laßwitz,M_Das Waldfräulein_Robert,2,undirected
+F_Ohne Liebe_Gräfin Laßwitz,M_Die Selbstsüchtigen_Gabriel,17,undirected
+F_Ohne Liebe_Gräfin Laßwitz,M_Die Veilchen_Graf Sigmund Andlau,2,undirected
+F_Ohne Liebe_Gräfin Laßwitz,M_Ohne Liebe_Graf Marko Laßwitz,13,undirected
+M_Das Waldfräulein_Franz,F_Das Waldfräulein_Therese,6,undirected
+M_Das Waldfräulein_Franz,M_Das Waldfräulein_Fürst Limburg,1,undirected
+M_Das Waldfräulein_Franz,M_Das Waldfräulein_Graf Hector Berg,59,undirected
+M_Das Waldfräulein_Franz,M_Das Waldfräulein_Graf Turnau,17,undirected
+M_Das Waldfräulein_Franz,M_Das Waldfräulein_Kurt,17,undirected
+M_Das Waldfräulein_Franz,M_Männertreue_Orso,12,undirected
+M_Das Waldfräulein_Fürst Limburg,F_Das Waldfräulein_Melanie,14,undirected
+M_Das Waldfräulein_Fürst Limburg,F_Die Veilchen_Gräfin Julie Neuberg,22,undirected
+M_Das Waldfräulein_Fürst Limburg,F_Ohne Liebe_Elise,2,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Das Waldfräulein_Franz,1,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Das Waldfräulein_Graf Hector Berg,1,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Das Waldfräulein_Graf Hochburg,1,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Das Waldfräulein_Graf Lazáry,9,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Das Waldfräulein_Kurt,23,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Die Selbstsüchtigen_Petermann,38,undirected
+M_Das Waldfräulein_Fürst Limburg,M_Männertreue_Orso,3,undirected
+M_Das Waldfräulein_Graf Hector Berg,F_Das Waldfräulein_Claudine,8,undirected
+M_Das Waldfräulein_Graf Hector Berg,F_Das Waldfräulein_Sarah,1,undirected
+M_Das Waldfräulein_Graf Hector Berg,F_Das Waldfräulein_Therese,6,undirected
+M_Das Waldfräulein_Graf Hector Berg,F_Die Veilchen_Gräfin Franziska Andlau,1,undirected
+M_Das Waldfräulein_Graf Hector Berg,M_Das Waldfräulein_Franz,59,undirected
+M_Das Waldfräulein_Graf Hector Berg,M_Das Waldfräulein_Fürst Limburg,1,undirected
+M_Das Waldfräulein_Graf Hector Berg,M_Das Waldfräulein_Graf Turnau,49,undirected
+M_Das Waldfräulein_Graf Hector Berg,M_Das Waldfräulein_Kurt,8,undirected
+M_Das Waldfräulein_Graf Hector Berg,M_Die Selbstsüchtigen_Petermann,2,undirected
+M_Das Waldfräulein_Graf Hochburg,F_Das Waldfräulein_Melanie,5,undirected
+M_Das Waldfräulein_Graf Hochburg,F_Das Waldfräulein_Sarah,8,undirected
+M_Das Waldfräulein_Graf Hochburg,F_Das Waldfräulein_Therese,47,undirected
+M_Das Waldfräulein_Graf Hochburg,F_Ohne Liebe_Emma,1,undirected
+M_Das Waldfräulein_Graf Hochburg,M_Das Waldfräulein_Fürst Limburg,1,undirected
+M_Das Waldfräulein_Graf Hochburg,M_Das Waldfräulein_Kurt,1,undirected
+M_Das Waldfräulein_Graf Hochburg,M_Das Waldfräulein_Robert,56,undirected
+M_Das Waldfräulein_Graf Hochburg,M_Die Selbstsüchtigen_Gabriel,7,undirected
+M_Das Waldfräulein_Graf Lazáry,F_Das Waldfräulein_Claudine,5,undirected
+M_Das Waldfräulein_Graf Lazáry,F_Das Waldfräulein_Gräfin von Thal,2,undirected
+M_Das Waldfräulein_Graf Lazáry,F_Die Veilchen_Gräfin Julie Neuberg,1,undirected
+M_Das Waldfräulein_Graf Lazáry,F_Die Veilchen_Gräfin Platen,22,undirected
+M_Das Waldfräulein_Graf Lazáry,F_Ohne Liebe_Elise,20,undirected
+M_Das Waldfräulein_Graf Lazáry,M_Das Waldfräulein_Fürst Limburg,9,undirected
+M_Das Waldfräulein_Graf Lazáry,M_Das Waldfräulein_Paul,4,undirected
+M_Das Waldfräulein_Graf Lazáry,M_Die Veilchen_Graf Ahlfeld,11,undirected
+M_Das Waldfräulein_Graf Lazáry,M_Ohne Liebe_Graf Rüdiger,2,undirected
+M_Das Waldfräulein_Graf Turnau,F_Das Waldfräulein_Claudine,4,undirected
+M_Das Waldfräulein_Graf Turnau,F_Das Waldfräulein_Melanie,2,undirected
+M_Das Waldfräulein_Graf Turnau,F_Die Veilchen_Gräfin Julie Neuberg,2,undirected
+M_Das Waldfräulein_Graf Turnau,F_Ohne Liebe_Elise,1,undirected
+M_Das Waldfräulein_Graf Turnau,F_Ohne Liebe_Gräfin Laßwitz,1,undirected
+M_Das Waldfräulein_Graf Turnau,M_Das Waldfräulein_Franz,17,undirected
+M_Das Waldfräulein_Graf Turnau,M_Das Waldfräulein_Graf Hector Berg,49,undirected
+M_Das Waldfräulein_Graf Turnau,M_Das Waldfräulein_Kurt,22,undirected
+M_Das Waldfräulein_Graf Turnau,M_Die Veilchen_Baron Rathhausen,3,undirected
+M_Das Waldfräulein_Kurt,F_Das Waldfräulein_Therese,9,undirected
+M_Das Waldfräulein_Kurt,F_Die Veilchen_Gräfin Franziska Andlau,2,undirected
+M_Das Waldfräulein_Kurt,F_Ohne Liebe_Gräfin Laßwitz,1,undirected
+M_Das Waldfräulein_Kurt,M_Das Waldfräulein_Franz,17,undirected
+M_Das Waldfräulein_Kurt,M_Das Waldfräulein_Fürst Limburg,23,undirected
+M_Das Waldfräulein_Kurt,M_Das Waldfräulein_Graf Hector Berg,8,undirected
+M_Das Waldfräulein_Kurt,M_Das Waldfräulein_Graf Hochburg,1,undirected
+M_Das Waldfräulein_Kurt,M_Das Waldfräulein_Graf Turnau,22,undirected
+M_Das Waldfräulein_Kurt,M_Das Waldfräulein_Robert,14,undirected
+M_Das Waldfräulein_Paul,F_Das Waldfräulein_Gräfin Nordheim,4,undirected
+M_Das Waldfräulein_Paul,F_Das Waldfräulein_Gräfin von Thal,4,undirected
+M_Das Waldfräulein_Paul,F_Das Waldfräulein_Sarah,37,undirected
+M_Das Waldfräulein_Paul,F_Das Waldfräulein_Therese,13,undirected
+M_Das Waldfräulein_Paul,F_Die Selbstsüchtigen_Emma,7,undirected
+M_Das Waldfräulein_Paul,F_Die Selbstsüchtigen_Gräfin Mathilde,16,undirected
+M_Das Waldfräulein_Paul,F_Ohne Liebe_Emma,4,undirected
+M_Das Waldfräulein_Paul,M_Das Waldfräulein_Graf Lazáry,4,undirected
+M_Das Waldfräulein_Paul,M_Das Waldfräulein_Robert,16,undirected
+M_Das Waldfräulein_Paul,M_Die Selbstsüchtigen_Graf Steinberg,51,undirected
+M_Das Waldfräulein_Paul,M_Ohne Liebe_Graf Rüdiger,19,undirected
+M_Das Waldfräulein_Robert,F_Das Waldfräulein_Gräfin Nordheim,1,undirected
+M_Das Waldfräulein_Robert,F_Das Waldfräulein_Gräfin von Thal,7,undirected
+M_Das Waldfräulein_Robert,F_Das Waldfräulein_Melanie,37,undirected
+M_Das Waldfräulein_Robert,F_Das Waldfräulein_Therese,8,undirected
+M_Das Waldfräulein_Robert,F_Ohne Liebe_Gräfin Laßwitz,2,undirected
+M_Das Waldfräulein_Robert,M_Das Waldfräulein_Graf Hochburg,56,undirected
+M_Das Waldfräulein_Robert,M_Das Waldfräulein_Kurt,14,undirected
+M_Das Waldfräulein_Robert,M_Das Waldfräulein_Paul,16,undirected
+M_Das Waldfräulein_Robert,M_Die Selbstsüchtigen_Gabriel,4,undirected
+M_Das Waldfräulein_Robert,M_Die Selbstsüchtigen_Graf Steinberg,1,undirected
+M_Das Waldfräulein_Robert,M_Männertreue_Anselmo Barbadico,1,undirected
+M_Die Selbstsüchtigen_Gabriel,F_Das Waldfräulein_Therese,1,undirected
+M_Die Selbstsüchtigen_Gabriel,F_Die Selbstsüchtigen_Emma,40,undirected
+M_Die Selbstsüchtigen_Gabriel,F_Die Selbstsüchtigen_Gräfin Mathilde,42,undirected
+M_Die Selbstsüchtigen_Gabriel,F_Die Veilchen_Baronin Auguste Wolf,1,undirected
+M_Die Selbstsüchtigen_Gabriel,F_Ohne Liebe_Emma,8,undirected
+M_Die Selbstsüchtigen_Gabriel,F_Ohne Liebe_Gräfin Laßwitz,17,undirected
+M_Die Selbstsüchtigen_Gabriel,M_Das Waldfräulein_Graf Hochburg,7,undirected
+M_Die Selbstsüchtigen_Gabriel,M_Das Waldfräulein_Robert,4,undirected
+M_Die Selbstsüchtigen_Gabriel,M_Die Selbstsüchtigen_Graf Steinberg,4,undirected
+M_Die Selbstsüchtigen_Gabriel,M_Die Veilchen_Graf Sigmund Andlau,7,undirected
+M_Die Selbstsüchtigen_Gabriel,M_Ohne Liebe_Graf Marko Laßwitz,33,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Das Waldfräulein_Gräfin Nordheim,19,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Das Waldfräulein_Sarah,1,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Die Selbstsüchtigen_Emma,4,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Die Selbstsüchtigen_Gräfin Mathilde,46,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Die Veilchen_Gräfin Franziska Andlau,1,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Die Veilchen_Gräfin Julie Neuberg,3,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Die Veilchen_Gräfin Platen,15,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,F_Ohne Liebe_Emma,1,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,M_Das Waldfräulein_Paul,51,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,M_Das Waldfräulein_Robert,1,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,M_Die Selbstsüchtigen_Gabriel,4,undirected
+M_Die Selbstsüchtigen_Graf Steinberg,M_Ohne Liebe_Graf Rüdiger,13,undirected
+M_Die Selbstsüchtigen_Petermann,F_Ohne Liebe_Elise,37,undirected
+M_Die Selbstsüchtigen_Petermann,M_Das Waldfräulein_Fürst Limburg,38,undirected
+M_Die Selbstsüchtigen_Petermann,M_Das Waldfräulein_Graf Hector Berg,2,undirected
+M_Die Selbstsüchtigen_Petermann,M_Die Veilchen_Graf Ahlfeld,24,undirected
+M_Die Selbstsüchtigen_Petermann,M_Männertreue_Domenico Maripetro,7,undirected
+M_Die Selbstsüchtigen_Petermann,M_Männertreue_Orso,1,undirected
+M_Die Veilchen_Baron Rathhausen,F_Das Waldfräulein_Melanie,1,undirected
+M_Die Veilchen_Baron Rathhausen,F_Die Veilchen_Baronin Auguste Wolf,51,undirected
+M_Die Veilchen_Baron Rathhausen,F_Die Veilchen_Gräfin Julie Neuberg,18,undirected
+M_Die Veilchen_Baron Rathhausen,F_Die Veilchen_Gräfin Platen,3,undirected
+M_Die Veilchen_Baron Rathhausen,F_Ohne Liebe_Elise,26,undirected
+M_Die Veilchen_Baron Rathhausen,M_Das Waldfräulein_Graf Turnau,3,undirected
+M_Die Veilchen_Baron Rathhausen,M_Die Veilchen_Graf Ahlfeld,10,undirected
+M_Die Veilchen_Baron Rathhausen,M_Männertreue_Der Doge (Foscari),1,undirected
+M_Die Veilchen_Graf Ahlfeld,F_Das Waldfräulein_Melanie,1,undirected
+M_Die Veilchen_Graf Ahlfeld,F_Ohne Liebe_Elise,56,undirected
+M_Die Veilchen_Graf Ahlfeld,M_Das Waldfräulein_Graf Lazáry,11,undirected
+M_Die Veilchen_Graf Ahlfeld,M_Die Selbstsüchtigen_Petermann,24,undirected
+M_Die Veilchen_Graf Ahlfeld,M_Die Veilchen_Baron Rathhausen,10,undirected
+M_Die Veilchen_Graf Ahlfeld,M_Männertreue_Der Doge (Foscari),2,undirected
+M_Die Veilchen_Graf Ahlfeld,M_Männertreue_Girolamo Bembo,3,undirected
+M_Die Veilchen_Graf Ahlfeld,M_Männertreue_Orso,4,undirected
+M_Die Veilchen_Graf Sigmund Andlau,F_Das Waldfräulein_Therese,1,undirected
+M_Die Veilchen_Graf Sigmund Andlau,F_Die Veilchen_Baronin Auguste Wolf,38,undirected
+M_Die Veilchen_Graf Sigmund Andlau,F_Die Veilchen_Gräfin Franziska Andlau,35,undirected
+M_Die Veilchen_Graf Sigmund Andlau,F_Die Veilchen_Gräfin Julie Neuberg,20,undirected
+M_Die Veilchen_Graf Sigmund Andlau,F_Ohne Liebe_Gräfin Laßwitz,2,undirected
+M_Die Veilchen_Graf Sigmund Andlau,M_Die Selbstsüchtigen_Gabriel,7,undirected
+M_Die Veilchen_Graf Sigmund Andlau,M_Ohne Liebe_Graf Marko Laßwitz,8,undirected
+M_Männertreue_Anselmo Barbadico,F_Männertreue_Isotta,30,undirected
+M_Männertreue_Anselmo Barbadico,F_Männertreue_Lucia,46,undirected
+M_Männertreue_Anselmo Barbadico,M_Das Waldfräulein_Robert,1,undirected
+M_Männertreue_Anselmo Barbadico,M_Männertreue_Girolamo Bembo,56,undirected
+M_Männertreue_Anselmo Barbadico,M_Männertreue_Nicolo Foscari,15,undirected
+M_Männertreue_Der Doge (Foscari),F_Männertreue_Ghismonda Mora,6,undirected
+M_Männertreue_Der Doge (Foscari),F_Männertreue_Isotta,9,undirected
+M_Männertreue_Der Doge (Foscari),F_Ohne Liebe_Elise,10,undirected
+M_Männertreue_Der Doge (Foscari),M_Die Veilchen_Baron Rathhausen,1,undirected
+M_Männertreue_Der Doge (Foscari),M_Die Veilchen_Graf Ahlfeld,2,undirected
+M_Männertreue_Der Doge (Foscari),M_Männertreue_Domenico Maripetro,50,undirected
+M_Männertreue_Der Doge (Foscari),M_Männertreue_Orso,50,undirected
+M_Männertreue_Domenico Maripetro,F_Das Waldfräulein_Gräfin Nordheim,1,undirected
+M_Männertreue_Domenico Maripetro,M_Die Selbstsüchtigen_Petermann,7,undirected
+M_Männertreue_Domenico Maripetro,M_Männertreue_Der Doge (Foscari),50,undirected
+M_Männertreue_Domenico Maripetro,M_Männertreue_Girolamo Bembo,7,undirected
+M_Männertreue_Domenico Maripetro,M_Männertreue_Nicolo Foscari,3,undirected
+M_Männertreue_Domenico Maripetro,M_Männertreue_Orso,48,undirected
+M_Männertreue_Girolamo Bembo,F_Das Waldfräulein_Melanie,3,undirected
+M_Männertreue_Girolamo Bembo,F_Männertreue_Ghismonda Mora,13,undirected
+M_Männertreue_Girolamo Bembo,F_Männertreue_Isotta,37,undirected
+M_Männertreue_Girolamo Bembo,F_Männertreue_Lucia,47,undirected
+M_Männertreue_Girolamo Bembo,M_Die Veilchen_Graf Ahlfeld,3,undirected
+M_Männertreue_Girolamo Bembo,M_Männertreue_Anselmo Barbadico,56,undirected
+M_Männertreue_Girolamo Bembo,M_Männertreue_Domenico Maripetro,7,undirected
+M_Männertreue_Girolamo Bembo,M_Männertreue_Nicolo Foscari,13,undirected
+M_Männertreue_Nicolo Foscari,F_Die Selbstsüchtigen_Gräfin Mathilde,1,undirected
+M_Männertreue_Nicolo Foscari,F_Männertreue_Isotta,10,undirected
+M_Männertreue_Nicolo Foscari,F_Männertreue_Lucia,30,undirected
+M_Männertreue_Nicolo Foscari,M_Männertreue_Anselmo Barbadico,15,undirected
+M_Männertreue_Nicolo Foscari,M_Männertreue_Domenico Maripetro,3,undirected
+M_Männertreue_Nicolo Foscari,M_Männertreue_Girolamo Bembo,13,undirected
+M_Männertreue_Nicolo Foscari,M_Männertreue_Orso,4,undirected
+M_Männertreue_Orso,F_Das Waldfräulein_Melanie,1,undirected
+M_Männertreue_Orso,F_Männertreue_Ghismonda Mora,2,undirected
+M_Männertreue_Orso,F_Ohne Liebe_Elise,5,undirected
+M_Männertreue_Orso,M_Das Waldfräulein_Franz,12,undirected
+M_Männertreue_Orso,M_Das Waldfräulein_Fürst Limburg,3,undirected
+M_Männertreue_Orso,M_Die Selbstsüchtigen_Petermann,1,undirected
+M_Männertreue_Orso,M_Die Veilchen_Graf Ahlfeld,4,undirected
+M_Männertreue_Orso,M_Männertreue_Der Doge (Foscari),50,undirected
+M_Männertreue_Orso,M_Männertreue_Domenico Maripetro,48,undirected
+M_Männertreue_Orso,M_Männertreue_Nicolo Foscari,4,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,F_Das Waldfräulein_Therese,1,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,F_Die Selbstsüchtigen_Gräfin Mathilde,4,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,F_Die Veilchen_Baronin Auguste Wolf,4,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,F_Die Veilchen_Gräfin Franziska Andlau,20,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,F_Ohne Liebe_Emma,50,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,F_Ohne Liebe_Gräfin Laßwitz,13,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,M_Die Selbstsüchtigen_Gabriel,33,undirected
+M_Ohne Liebe_Graf Marko Laßwitz,M_Die Veilchen_Graf Sigmund Andlau,8,undirected
+M_Ohne Liebe_Graf Rüdiger,F_Die Selbstsüchtigen_Gräfin Mathilde,3,undirected
+M_Ohne Liebe_Graf Rüdiger,F_Die Veilchen_Gräfin Franziska Andlau,12,undirected
+M_Ohne Liebe_Graf Rüdiger,F_Die Veilchen_Gräfin Platen,2,undirected
+M_Ohne Liebe_Graf Rüdiger,F_Ohne Liebe_Emma,23,undirected
+M_Ohne Liebe_Graf Rüdiger,M_Das Waldfräulein_Graf Lazáry,2,undirected
+M_Ohne Liebe_Graf Rüdiger,M_Das Waldfräulein_Paul,19,undirected
+M_Ohne Liebe_Graf Rüdiger,M_Die Selbstsüchtigen_Graf Steinberg,13,undirected
